@@ -25,7 +25,7 @@
 
 Here is a 3D visualization of my contributions to GitHub!
 
-![3D Contributions](https://raw.githubusercontent.com/VasudevMishra/VasudevMishra/main/profile-3d-contrib.svg)
+![3D Contributions](https://raw.githubusercontent.com/VasudevMishra/VasudevMishra/main/github-profile-3d-contrib.yml)
 
 ---
 
