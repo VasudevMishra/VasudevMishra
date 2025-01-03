@@ -4,7 +4,7 @@
 🔭 **Currently exploring:** Data Analytics & Mechanical Engineering Projects  
 🌱 **Learning:** AI, Data Visualization, and Python  
 💬 **Ask me about:** EPANET, Python, or CAD/CAM  
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/vasudev-mishra) | [Gmail](mailto:mishravasudev725@example.com)
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/vasudev-mishra-6a83b1260/) | [Gmail](mailto:mishravasudev725@gmail.com)
 
 ---
 
@@ -13,6 +13,8 @@
 ![SQL](https://img.shields.io/badge/SQL-%23187CB7.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![ANSYS](https://img.shields.io/badge/ANSYS-%23E7352D.svg?style=flat-square&logo=ansys&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
+
 
 ---
 
