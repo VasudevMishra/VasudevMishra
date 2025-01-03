@@ -9,11 +9,11 @@
 ---
 
 ### 🚀 Technologies I Work With:
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23187CB7.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![ANSYS](https://img.shields.io/badge/ANSYS-%23E7352D.svg?style=flat-square&logo=ansys&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" width="120"/>
+<img src="https://img.shields.io/badge/SQL-%23187CB7.svg?style=flat-square&logo=postgresql&logoColor=white" width="120"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" width="120"/>
+<img src="https://img.shields.io/badge/ANSYS-%23E7352D.svg?style=flat-square&logo=ansys&logoColor=white" width="120"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white" width="120"/>
 
 ---
 
