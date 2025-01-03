@@ -15,13 +15,20 @@
 ![ANSYS](https://img.shields.io/badge/ANSYS-%23E7352D.svg?style=flat-square&logo=ansys&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-
 ---
 
 ### 📊 GitHub Stats:
 ![Vasudev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasudevMishra&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasudevMishra&layout=compact&theme=radical)
+
+---
+
+### 📊 GitHub 3D Contributions
+
+Here is a 3D visualization of my contributions to GitHub!
+
+![3D Contributions](https://raw.githubusercontent.com/VasudevMishra/VasudevMishra/main/profile-3d-contrib.svg)
 
 ---
 
@@ -36,9 +43,14 @@
 [![Vasudev's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VasudevMishra&theme=radical)](https://github.com/VasudevMishra)
 
 ---
-![3D Contributions](https://raw.githubusercontent.com/VasudevMishra/VasudevMishra/main/profile-3d-contrib.svg)
-
 
 ### 🎮 Fun Fact:
 *"Coding is like solving puzzles—it never gets boring!"*
 
+---
+
+#### 🔗 Connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/vasudev-mishra-6a83b1260/)
+- [Gmail](mailto:mishravasudev725@gmail.com)
+- [GitHub](https://github.com/VasudevMishra)
