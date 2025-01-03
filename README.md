@@ -36,6 +36,8 @@
 [![Vasudev's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VasudevMishra&theme=radical)](https://github.com/VasudevMishra)
 
 ---
+![3D Contributions](https://raw.githubusercontent.com/VasudevMishra/VasudevMishra/main/profile-3d-contrib.svg)
+
 
 ### 🎮 Fun Fact:
 *"Coding is like solving puzzles—it never gets boring!"*
